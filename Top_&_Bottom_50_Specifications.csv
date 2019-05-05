@@ -1,0 +1,101 @@
+,formula,accuracy
+inner_save.224,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Economics_and_Accounting_k + Mathematics_k + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.336,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Foreign_Language_k + Mathematical_Reasoning_a + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.344,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Foreign_Language_k + Mathematical_Reasoning_a + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.408,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Foreign_Language_k + Information_Ordering_a + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.436,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Deductive_Reasoning_a + Information_Ordering_a + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.440,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Information_Ordering_a + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.464,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Foreign_Language_k + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.465,Type ~ 1 + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Foreign_Language_k + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.466,Type ~ 1 + Active_Learning_s + Critical_Thinking_s + Deductive_Reasoning_a + Foreign_Language_k + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.468,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Deductive_Reasoning_a + Foreign_Language_k + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.472,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Foreign_Language_k + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.473,Type ~ 1 + Complex_Problem_Solving_s + Critical_Thinking_s + Foreign_Language_k + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.474,Type ~ 1 + Active_Learning_s + Critical_Thinking_s + Foreign_Language_k + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.476,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Foreign_Language_k + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.496,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.498,Type ~ 1 + Active_Learning_s + Critical_Thinking_s + Deductive_Reasoning_a + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.500,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Deductive_Reasoning_a + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.501,Type ~ 1 + Complex_Problem_Solving_s + Deductive_Reasoning_a + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.504,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.505,Type ~ 1 + Complex_Problem_Solving_s + Critical_Thinking_s + Mathematics_s + Programming_s + Visualization_a,0.971428571
+inner_save.576,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Economics_and_Accounting_k + Foreign_Language_k + Mathematical_Reasoning_a + Mathematics_k + Programming_s + Visualization_a,0.971428571
+inner_save.608,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Economics_and_Accounting_k + Mathematical_Reasoning_a + Mathematics_k + Programming_s + Visualization_a,0.971428571
+inner_save.610,Type ~ 1 + Active_Learning_s + Critical_Thinking_s + Deductive_Reasoning_a + Economics_and_Accounting_k + Mathematical_Reasoning_a + Mathematics_k + Programming_s + Visualization_a,0.971428571
+inner_save.616,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Economics_and_Accounting_k + Mathematical_Reasoning_a + Mathematics_k + Programming_s + Visualization_a,0.971428571
+inner_save.672,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Economics_and_Accounting_k + Information_Ordering_a + Mathematics_k + Programming_s + Visualization_a,0.971428571
+inner_save.680,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Economics_and_Accounting_k + Information_Ordering_a + Mathematics_k + Programming_s + Visualization_a,0.971428571
+inner_save.737,Type ~ 1 + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Economics_and_Accounting_k + Mathematics_k + Programming_s + Visualization_a,0.971428571
+inner_save.752,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Mathematics_k + Programming_s + Visualization_a,0.971428571
+inner_save.760,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Mathematics_k + Programming_s + Visualization_a,0.971428571
+inner_save.792,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Foreign_Language_k + Information_Ordering_a + Mathematical_Reasoning_a + Programming_s + Visualization_a,0.971428571
+inner_save.825,Type ~ 1 + Complex_Problem_Solving_s + Critical_Thinking_s + Information_Ordering_a + Mathematical_Reasoning_a + Programming_s + Visualization_a,0.971428571
+inner_save.848,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Foreign_Language_k + Mathematical_Reasoning_a + Programming_s + Visualization_a,0.971428571
+inner_save.912,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Foreign_Language_k + Information_Ordering_a + Programming_s + Visualization_a,0.971428571
+inner_save.913,Type ~ 1 + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Foreign_Language_k + Information_Ordering_a + Programming_s + Visualization_a,0.971428571
+inner_save.916,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Deductive_Reasoning_a + Foreign_Language_k + Information_Ordering_a + Programming_s + Visualization_a,0.971428571
+inner_save.920,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Foreign_Language_k + Information_Ordering_a + Programming_s + Visualization_a,0.971428571
+inner_save.921,Type ~ 1 + Complex_Problem_Solving_s + Critical_Thinking_s + Foreign_Language_k + Information_Ordering_a + Programming_s + Visualization_a,0.971428571
+inner_save.924,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Foreign_Language_k + Information_Ordering_a + Programming_s + Visualization_a,0.971428571
+inner_save.944,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Information_Ordering_a + Programming_s + Visualization_a,0.971428571
+inner_save.945,Type ~ 1 + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Information_Ordering_a + Programming_s + Visualization_a,0.971428571
+inner_save.948,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Deductive_Reasoning_a + Information_Ordering_a + Programming_s + Visualization_a,0.971428571
+inner_save.949,Type ~ 1 + Complex_Problem_Solving_s + Deductive_Reasoning_a + Information_Ordering_a + Programming_s + Visualization_a,0.971428571
+inner_save.957,Type ~ 1 + Complex_Problem_Solving_s + Information_Ordering_a + Programming_s + Visualization_a,0.971428571
+inner_save.1008,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Programming_s + Visualization_a,0.971428571
+inner_save.1009,Type ~ 1 + Complex_Problem_Solving_s + Critical_Thinking_s + Deductive_Reasoning_a + Programming_s + Visualization_a,0.971428571
+inner_save.1011,Type ~ 1 + Critical_Thinking_s + Deductive_Reasoning_a + Programming_s + Visualization_a,0.971428571
+inner_save.1012,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Deductive_Reasoning_a + Programming_s + Visualization_a,0.971428571
+inner_save.1013,Type ~ 1 + Complex_Problem_Solving_s + Deductive_Reasoning_a + Programming_s + Visualization_a,0.971428571
+inner_save.1014,Type ~ 1 + Active_Learning_s + Deductive_Reasoning_a + Programming_s + Visualization_a,0.971428571
+inner_save.1016,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Critical_Thinking_s + Programming_s + Visualization_a,0.971428571
+inner_save.3823,Type ~ 1 + Economics_and_Accounting_k + Mathematics_k,0.828571429
+inner_save.3833,Type ~ 1 + Complex_Problem_Solving_s + Critical_Thinking_s + Mathematics_k,0.828571429
+inner_save.3837,Type ~ 1 + Complex_Problem_Solving_s + Mathematics_k,0.828571429
+inner_save.3838,Type ~ 1 + Active_Learning_s + Mathematics_k,0.828571429
+inner_save.3839,Type ~ 1 + Mathematics_k,0.828571429
+inner_save.3978,Type ~ 1 + Active_Learning_s + Critical_Thinking_s + Economics_and_Accounting_k + Foreign_Language_k + Information_Ordering_a,0.828571429
+inner_save.3980,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Economics_and_Accounting_k + Foreign_Language_k + Information_Ordering_a,0.828571429
+inner_save.3982,Type ~ 1 + Active_Learning_s + Economics_and_Accounting_k + Foreign_Language_k + Information_Ordering_a,0.828571429
+inner_save.3996,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Foreign_Language_k + Information_Ordering_a,0.828571429
+inner_save.4002,Type ~ 1 + Active_Learning_s + Critical_Thinking_s + Deductive_Reasoning_a + Economics_and_Accounting_k + Information_Ordering_a,0.828571429
+inner_save.4026,Type ~ 1 + Active_Learning_s + Critical_Thinking_s + Information_Ordering_a,0.828571429
+inner_save.4028,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Information_Ordering_a,0.828571429
+inner_save.4029,Type ~ 1 + Complex_Problem_Solving_s + Information_Ordering_a,0.828571429
+inner_save.4030,Type ~ 1 + Active_Learning_s + Information_Ordering_a,0.828571429
+inner_save.4042,Type ~ 1 + Active_Learning_s + Critical_Thinking_s + Economics_and_Accounting_k + Foreign_Language_k,0.828571429
+inner_save.4075,Type ~ 1 + Critical_Thinking_s + Economics_and_Accounting_k,0.828571429
+inner_save.4077,Type ~ 1 + Complex_Problem_Solving_s + Economics_and_Accounting_k,0.828571429
+inner_save.4090,Type ~ 1 + Active_Learning_s + Critical_Thinking_s,0.828571429
+inner_save.4091,Type ~ 1 + Critical_Thinking_s,0.828571429
+inner_save.4094,Type ~ 1 + Active_Learning_s,0.828571429
+inner_save.1759,Type ~ 1 + Foreign_Language_k + Mathematics_k + Visualization_a,0.8
+inner_save.1791,Type ~ 1 + Mathematics_k + Visualization_a,0.8
+inner_save.1935,Type ~ 1 + Economics_and_Accounting_k + Foreign_Language_k + Information_Ordering_a + Visualization_a,0.8
+inner_save.1981,Type ~ 1 + Complex_Problem_Solving_s + Information_Ordering_a + Visualization_a,0.8
+inner_save.2030,Type ~ 1 + Active_Learning_s + Economics_and_Accounting_k + Visualization_a,0.8
+inner_save.2043,Type ~ 1 + Critical_Thinking_s + Visualization_a,0.8
+inner_save.2046,Type ~ 1 + Active_Learning_s + Visualization_a,0.8
+inner_save.3791,Type ~ 1 + Economics_and_Accounting_k + Foreign_Language_k + Mathematics_k,0.8
+inner_save.3807,Type ~ 1 + Foreign_Language_k + Mathematics_k,0.8
+inner_save.3983,Type ~ 1 + Economics_and_Accounting_k + Foreign_Language_k + Information_Ordering_a,0.8
+inner_save.4010,Type ~ 1 + Active_Learning_s + Critical_Thinking_s + Economics_and_Accounting_k + Information_Ordering_a,0.8
+inner_save.4014,Type ~ 1 + Active_Learning_s + Economics_and_Accounting_k + Information_Ordering_a,0.8
+inner_save.4015,Type ~ 1 + Economics_and_Accounting_k + Information_Ordering_a,0.8
+inner_save.4031,Type ~ 1 + Information_Ordering_a,0.8
+inner_save.4076,Type ~ 1 + Active_Learning_s + Complex_Problem_Solving_s + Economics_and_Accounting_k,0.8
+inner_save.4078,Type ~ 1 + Active_Learning_s + Economics_and_Accounting_k,0.8
+inner_save.1743,Type ~ 1 + Economics_and_Accounting_k + Foreign_Language_k + Mathematics_k + Visualization_a,0.771428571
+inner_save.1775,Type ~ 1 + Economics_and_Accounting_k + Mathematics_k + Visualization_a,0.771428571
+inner_save.1983,Type ~ 1 + Information_Ordering_a + Visualization_a,0.771428571
+inner_save.3999,Type ~ 1 + Foreign_Language_k + Information_Ordering_a,0.771428571
+inner_save.4046,Type ~ 1 + Active_Learning_s + Economics_and_Accounting_k + Foreign_Language_k,0.771428571
+inner_save.1951,Type ~ 1 + Foreign_Language_k + Information_Ordering_a + Visualization_a,0.742857143
+inner_save.1998,Type ~ 1 + Active_Learning_s + Economics_and_Accounting_k + Foreign_Language_k + Visualization_a,0.742857143
+inner_save.2031,Type ~ 1 + Economics_and_Accounting_k + Visualization_a,0.628571429
+inner_save.1999,Type ~ 1 + Economics_and_Accounting_k + Foreign_Language_k + Visualization_a,0.6
+inner_save.4047,Type ~ 1 + Economics_and_Accounting_k + Foreign_Language_k,0.6
+inner_save.4079,Type ~ 1 + Economics_and_Accounting_k,0.571428571
+inner_save.2015,Type ~ 1 + Foreign_Language_k + Visualization_a,0.457142857
+inner_save.2047,Type ~ 1 + Visualization_a,0.4
+inner_save.4063,Type ~ 1 + Foreign_Language_k,0.4
